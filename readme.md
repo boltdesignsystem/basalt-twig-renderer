@@ -1,4 +1,6 @@
-> Note: this is a copy of `@basalt/twig-renderer` at `v0.13.2` with upgraded `@babel` dependencies, required to fix errors with `@babel` < `v7.8.7`, see https://github.com/babel/babel/issues/11216.
+> Note: this is a copy of `@basalt/twig-renderer@v0.13.2` (NPM distributed version) with upgraded `@babel` dependencies, required to fix errors with `@babel` < `v7.8.7`, see https://github.com/babel/babel/issues/11216.
+
+> Not to be confused with [boltdesignsystem/twig-renderer](https://github.com/boltdesignsystem/twig-renderer) which is a forked version of the same library's source files.
 
 # Twig Renderer
 
