@@ -1,3 +1,5 @@
+> Note: this is a copy of `@basalt/twig-renderer` at `v0.13.2` with upgraded `@babel` dependencies, required to fix errors with `@babel` < `v7.8.7`, see https://github.com/babel/babel/issues/11216.
+
 # Twig Renderer
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/basaltinc/twig-renderer.svg)](https://greenkeeper.io/)
